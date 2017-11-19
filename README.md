@@ -1,2 +1,2 @@
 # XML Parsing using DOM Parser
- Load XML file in your project..
+ Load XML file(catalog.xml) in your project..
